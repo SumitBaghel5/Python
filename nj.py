@@ -1,4 +1,4 @@
-a = int(input("First no - "))
-b = int(input("Second no ="))
-c = a>=b
-print(c)
+age = 18
+
+if age >= 18:
+ print("You are eligible")
