@@ -1,4 +1,8 @@
-numbers = range(1, 110, 5)
+my_dict = {
+    "name": "Ram",
+    "age": 25,
+    "city": "Delhi"
+}
 
-print(type(numbers))  # Output: <class 'range'>
-print(list(numbers))  # Output: [1, 3, 5, 7, 9]
+
+print(my_dict["name"],"\n",my_dict["age"])
