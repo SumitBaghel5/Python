@@ -1,8 +1,3 @@
-my_dict = {
-    "name": "Ram",
-    "age": 25,
-    "city": "Delhi"
-}
-
-
-print(my_dict["name"],"\n",my_dict["age"])
+a_z = {"apple",52,"ram","ram",52}
+print(a_z)
+print(type(a_z))
