@@ -3,7 +3,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Language-Python%203.x-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Analytics%20%26%20Automation-00758F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Scientis%20%26%20Automation-00758F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Actively%20Maintained-green?style=for-the-badge" />
 </p>
 
