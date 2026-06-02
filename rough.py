@@ -1,3 +1,6 @@
-a_z = {"apple",52,"ram","ram",52}
-print(a_z)
-print(type(a_z))
+print ("Total Marks of Each Subject = 100")
+Physics = int(input("Marks in Physics ="))
+Chemistry = int(input("Marks in Chemistry = "))
+Maths = int(input("Marks in Maths = "))
+English = int(input("Marks in English = "))
+Physical_Education = int(input("Marks in Physical_Education = "))
