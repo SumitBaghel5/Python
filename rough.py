@@ -1,23 +1,9 @@
-# age = int(input("Write your age = "))
-# if age <= 13:
-#     print("You are a child ")
-# elif age >13 and age <18 :
-#     print("You are a teenager")
-# elif age >18 :
-#     print("You are old")
+num_1 = int(input("enter 1st no ="))
+num_2 = int(input("enter 2nd no ="))
+num_3 = int(input("enter 3rd no ="))
 
+# Logic: Check if num_1 is biggest, else check if num_2 is biggest, else it's num_3
+result = (num_1 >= num_2 and num_1 >= num_3) and num_1 or \
+(num_2 >= num_3) and num_2 or num_3
 
-#     username = input("Write your username = ")
-#     password = input("Write your Password =")
-
-#     if (username == "admin" and password == "pass"):
-#         print("Login Success full")
-#     else :
-#         print("User name or password wrong XXX")
-
-n = int(input("Write your no = "))
-
-if ( n % 2 == 0):
-    print("even ")
-else:
-    print("odd")
+print("Largest is:", result)
