@@ -60,19 +60,29 @@
 #     print(2536953)
 #     print(num*5)
 
-# sumit()
+# # sumit()
 
-def sum (a,b):
-    s = a+b
-    return s
+# def sum (a,b):
+#     s = a+b
+#     return s
 
-ans = sum(23,56)
-print(ans)
+# ans = sum(23,56)
+# print(ans)
 
+# num1 = int(input("1st no = "))
+# num2 = int(input("2nd no = "))
+# num3 = int(input("3rd no = "))
+# def avg (a,b,c):
+#     x = (a+b+c)/3
+#     return x
 
-def avg (a,b,c):
-    x = (a+b+c)/3
-    return x
+# ans = avg (num1,num2,num3)
+# # print("avg of three no",ans)
+# num = int(input("Enter your no "))
+def fac (num):
+    sum = 1
+    for i in range(1,num+1):
+        sum *= i
+print(sum)
 
-ans = avg (3,5,7)
-print("avg of three no",ans)
+fac(23)
