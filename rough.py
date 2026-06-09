@@ -35,14 +35,44 @@
 # num = int(input('Write your no'))
 # count = 1
 # while(count<=10):
-#     print(num,"X",count,"=",num*count)
-#     count += 1
+# #     print(num,"X",count,"=",num*count)
+# #     count += 1
 
-i = 1
-while(i<=10):
-    if (i%2 == 0):
-        i += 1
-        continue
+# i = 1
+# while(i<=10):
+#     if (i%2 == 0):
+#         i += 1
+#         continue
         
-    print(i)
-    i += 1
+#     print(i)
+#     i += 1
+
+# num = int(input("Enter your no = "))
+# sum = 0
+# for i in range(1, num+1):
+#     sum += i
+# print(sum)
+# print("telly = " , num*((num+1)/2))
+# num = int(input("Enter your desire no = "))
+# def sumit ():
+#     print("ramu kaka kese ho")
+#     print("hiii ramu")
+#     print(2536953)
+#     print(num*5)
+
+# sumit()
+
+def sum (a,b):
+    s = a+b
+    return s
+
+ans = sum(23,56)
+print(ans)
+
+
+def avg (a,b,c):
+    x = (a+b+c)/3
+    return x
+
+ans = avg (3,5,7)
+print("avg of three no",ans)
