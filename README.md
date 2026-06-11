@@ -26,15 +26,15 @@ This repository serves as a step-by-step technical guide to Python proficiency. 
   <a href="https://github.com/SumitBaghel5/Python">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=3670A0&background=0D111700&width=600&height=40&lines=%F0%9F%93%A6+Python" alt="Root" />
     <br>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&code_delay=800&pause=2000&color=A9B1D6&background=0D111700&width=600&height=35&lines=%E2%94%A3+%F0%9F%93%93+1.+Python_Intro.ipynb" alt="File 1" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&code_delay=800&pause=2000&color=A9B1D6&background=0D111700&width=600&height=35&lines=%E2%94%A3+%F0%9F%93%93+1.+Python_Intro" alt="File 1" />
     <br>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&code_delay=1600&pause=2000&color=A9B1D6&background=0D111700&width=600&height=35&lines=%E2%94%A3+%F0%9F%93%93+2.+Variable.ipynb" alt="File 2" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&code_delay=1600&pause=2000&color=A9B1D6&background=0D111700&width=600&height=35&lines=%E2%94%A3+%F0%9F%93%93+2.+Variable" alt="File 2" />
     <br>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&code_delay=2400&pause=2000&color=A9B1D6&background=0D111700&width=600&height=35&lines=%E2%94%97+%F0%9F%93%93+3.+Data+Types.ipynb" alt="File 3" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&code_delay=2400&pause=2000&color=A9B1D6&background=0D111700&width=600&height=35&lines=%E2%94%97+%F0%9F%93%93+3.+Data+Types" alt="File 3" />
     <br>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&code_delay=1600&pause=2000&color=A9B1D6&background=0D111700&width=600&height=35&lines=%E2%94%A3+%F0%9F%93%93+4.+Operator.ipynb" alt="File 2" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&code_delay=1600&pause=2000&color=A9B1D6&background=0D111700&width=600&height=35&lines=%E2%94%A3+%F0%9F%93%93+4.+Operator" alt="File 2" />
     <br>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&code_delay=1600&pause=2000&color=A9B1D6&background=0D111700&width=600&height=35&lines=%E2%94%A3+%F0%9F%93%93+5.+Conditional+Statement.ipynb" alt="File 2" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&code_delay=1600&pause=2000&color=A9B1D6&background=0D111700&width=600&height=35&lines=%E2%94%A3+%F0%9F%93%93+5.+Conditional+Statement" alt="File 2" />
   </a>
 </p>
 </details>
