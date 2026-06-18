@@ -15,7 +15,7 @@
 
 ---
 
-## 🐍 Repository Directory
+## 📂 Repository Directory
 
 This repository serves as a step-by-step technical guide to Python proficiency. Click below to view the interactive directory tree:
 
