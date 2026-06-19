@@ -79,10 +79,26 @@
 # ans = avg (num1,num2,num3)
 # # print("avg of three no",ans)
 # num = int(input("Enter your no "))
-def fac (num):
-    sum = 1
-    for i in range(1,num+1):
-        sum *= i
-print(sum)
+# def fac (num):
+#     sum = 1
+#     for i in range(1,num+1):
+#         sum *= i
+# print(sum)
 
-fac(23)
+# fac(23)
+# i = 1
+# while (i<=10):
+#     if (i%2 == 0):
+#         i+= 1
+#         continue
+#     print(i)
+#     i+= 1
+
+# i = 10
+# while (i>=1):
+#     print("*"*i)
+#     i-=1
+# j = 1
+# while (j<=10):
+#     print("*"*j)
+#     j+=1
