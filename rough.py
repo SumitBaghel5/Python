@@ -102,3 +102,6 @@
 # while (j<=10):
 #     print("*"*j)
 #     j+=1
+string = "hielon3225"
+for bh in string:
+    print(bh)
