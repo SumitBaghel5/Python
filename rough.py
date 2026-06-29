@@ -102,6 +102,9 @@
 # while (j<=10):
 #     print("*"*j)
 #     j+=1
-string = "hielon3225"
-for bh in string:
-    print(bh)
+# string = "hielon3225"
+# for bh in string:
+#     print(bh)
+
+# for i in range(1,6):
+#     print("*"*i)
