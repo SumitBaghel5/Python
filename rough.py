@@ -108,3 +108,21 @@
 
 # for i in range(1,6):
 #     print("*"*i)
+
+# calculate the avg of 3 no
+# a = int(input("1st no = "))
+# b = int(input("2nd no = "))
+# c = int(input("3rd no = "))
+
+# def cal_avg (a,b,c):
+#     a = int(input("1st no = "))
+#     b = int(input("2nd no = "))
+#     c = int(input("3rd no = "))
+
+#     avg_ = ( a+b+c)/3
+#     return(avg_)
+
+# cal_avg(a,b,c)
+import keyword
+for i in keyword.kwlist:
+    print(i)
