@@ -166,4 +166,10 @@
 # def my_function(*, name):
 #   print("Hello", name)
 
-# my_function(name = "Emil")
+# my_function(name = "
+# name = input()
+# age = int(input())
+# print(f"write your name =  {name}")
+# print(f"Write your age = {age}")
+
+print('He is called "Johnny" ')
